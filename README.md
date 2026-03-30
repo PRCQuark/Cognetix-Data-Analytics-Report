@@ -1,24 +1,37 @@
 # Cognetix Data Analytics Internship Project
 
 ## Overview
-This project includes multiple levels of data analysis tasks...
+This project contains multiple levels of data analytics tasks performed during my internship at Cognetix Technologies. It covers data preprocessing, exploratory data analysis (EDA), visualization, and business insights generation.
 
-## Structure
-- LEVEL1 → Basic analysis
-- LEVEL2 → Intermediate
-- ...
-- LEVEL6 → Advanced analytics
+## Objectives
+- Analyze real-world datasets
+- Extract actionable insights
+- Build structured analytics workflows
 
-## Tools Used
+## Tech Stack
 - Python
-- Pandas
-- NumPy
-- Matplotlib
+- Pandas, NumPy
+- Matplotlib, Seaborn
 - Jupyter Notebook
 
+## Project Structure
+- LEVEL1 → Basic Data Exploration
+- LEVEL2 → Data Cleaning & Transformation
+- LEVEL3 → Visualization
+- LEVEL4 → Advanced EDA
+- LEVEL5 → Insights & Patterns
+- LEVEL6 → Final Analysis & Reporting
+
 ## Key Highlights
-- Data Cleaning
-- EDA
-- Visualization
-- Business Insights
-  
+- Cleaned and processed raw datasets
+- Performed detailed EDA
+- Generated visual insights
+- Created analytical reports
+
+## How to Run
+1. Clone the repo
+2. Install requirements
+3. Open notebooks
+
+## Name
+Rutuj Bhagwat
